@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fingerprint", "fingerprint\fingerprint.csproj", "{35171958-42DE-4788-95E9-EDD16370362E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35171958-42DE-4788-95E9-EDD16370362E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35171958-42DE-4788-95E9-EDD16370362E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35171958-42DE-4788-95E9-EDD16370362E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35171958-42DE-4788-95E9-EDD16370362E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893185CE-53F6-4674-89CE-BC706A59DA0F}
+	EndGlobalSection
+EndGlobal
